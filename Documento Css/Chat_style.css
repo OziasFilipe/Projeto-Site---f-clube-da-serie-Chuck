@@ -1,0 +1,45 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  background-color: black;
+}
+
+
+.content{
+
+margin: 140px 0px 0px 100px;
+height: 400px;
+width: 500px;
+box-shadow: 1px 1px 1px 0px;
+padding-left: 0px;
+background: transparent;
+color:aliceblue;
+}
+
+.content2{
+  margin: 140px 0px 0px 0;
+height: 400px;
+width: 400px;
+box-shadow: 1px 1px 1px 0px ;
+margin-left: 55px;
+background: transparent;
+color:aliceblue;
+}
+.content3 {
+margin: 5px 0px 0px 60px;
+background: transparent;
+color:aliceblue;
+}
+
+.BoxContent{
+  
+
+}
+
+#paragrafo {
+  color:white;
+  text-align: center;
+}

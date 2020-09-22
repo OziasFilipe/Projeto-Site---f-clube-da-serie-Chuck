@@ -1,0 +1,86 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+
+.navBar a {
+
+padding: 0px 70px 0px 0px;
+font-size: 20px;
+box-shadow: 1px 1px 1px 0px;
+
+}
+.Container  {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 100px;
+  box-shadow: 2px 2px 2px 2px;
+  background: blueviolet;
+  
+  
+
+}
+.card-Buy {
+  box-shadow: 0px 1px 1px 1px ;
+  width: 200px;
+  margin-right: 60px;
+  background: rgba(255, 255, 255, 0.781);
+  border-radius: 3%;
+ 
+}
+
+.card-Buy img{
+ 
+  height: 200px;
+  
+}
+
+.teste :focus {
+
+height: 20px;
+}
+
+.card-Buy img:hover {
+  
+}
+.card-Buy p {
+  text-align: center;
+}
+
+.card-Buy button {
+  
+background: rgb(20, 223, 47);
+height: 20px;
+  
+right:250px;
+margin-left: 60px;
+padding-bottom: 20px;
+width: 80px;
+text-align: center;
+border-radius: 10%;
+border-color: black;
+  
+
+}
+.card-Buy button:hover {
+height: 30px;
+}
+
+#card-Buy-preco {
+  float: left;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+#card-Buy-desconto {
+
+text-decoration-line:line-through;
+color: black;
+ clear:both;
+ float: left;
+ font-size: 10px;
+}
+body {
+ background: blueviolet;
+}

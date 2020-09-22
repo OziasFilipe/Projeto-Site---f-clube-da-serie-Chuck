@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body{
+  background-image:url(https://static2.srcdn.com/wordpress/wp-content/uploads/2019/04/chuck-cast-2.jpg);
+  background-size:110%;
+ 
+
+}
+.post{
+   
+    width: 300px;
+    margin:auto;
+    padding-top: 10px;
+    border-bottom: 1pt 1px 5px black;
+    box-shadow: 1px 1px 20px;
+    float: right;
+   
+    
+      
+}
+.cart{
+  box-shadow: 1px 1p 5px White;
+    width: 400px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 6px;
+   
+}
+p{
+    color:orangered;
+    width: 50px;
+    padding-left:50px;
+  
+}
+
+h3{
+   color: orangered ;
+   font-size:30px;
+    padding-left:50px;
+  font-family: 'Bangers', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Lobster Two', cursive;
+font-family: 'Playfair Display', serif;
+
+}
+
+#Cadastrar-Button {
+
+background-color: orangered ;
+margin-left:50px;
+margin-bottom: 2px;

@@ -1,0 +1,23 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  background: black;
+}
+.temporadas {
+
+margin: 150px 0px 0px 0px;
+}
+.temporadas h1 {
+  margin: 100px 0px 0px 0px;
+  color:white;
+}
+
+.Box {
+  padding: 50px;
+  text-decoration: white;
+  color:white;
+  float:left;
+}

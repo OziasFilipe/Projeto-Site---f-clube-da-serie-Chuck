@@ -1,0 +1,22 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+#erro{ text-align: center;
+font-family: bootstrap,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 30px;
+
+}
+
+#suporte{
+text-align: center;
+
+}
+body{
+  background-color: rgba(29, 20, 20, 0.705);
+  
+}
+#espaço{
+  width: 40px;
+}
